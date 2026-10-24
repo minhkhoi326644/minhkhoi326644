@@ -23,7 +23,7 @@
     <a href="mailto:tranleminhkhoi1510@gmail.com">
       <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-    <a href="https://www.facebook.com/mkhoi.ctu.cict/" target="_blank">
+    <a href="https://www.facebook.com/mkhoi.1510/" target="_blank">
       <img src="https://img.shields.io/badge/Facebook-mkhoi.1510-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
     </a>
   </p>
@@ -146,7 +146,7 @@ Hobbies: Coding, Lo-fi Music, Gaming & Anime
 <p align="center">
   <a href="https://mkhoi207.io.vn"><img src="https://img.shields.io/badge/Website-mkhoi207.io.vn-5865F2?style=flat-square&logo=googlechrome&logoColor=white" /></a>
   <a href="https://discord.com/users/885126485663449139"><img src="https://img.shields.io/badge/Discord-Love%20Sick-5865F2?style=flat-square&logo=discord&logoColor=white" /></a>
-  <a href="https://www.facebook.com/mkhoi.1510//"><img src="https://img.shields.io/badge/Facebook-Trần%20Lê%20Minh%20Khôi-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
+  <a href="https://www.facebook.com/mkhoi.1510/"><img src="https://img.shields.io/badge/Facebook-Trần%20Lê%20Minh%20Khôi-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
   <a href="https://www.instagram.com/_teddy.1510/"><img src="https://img.shields.io/badge/Instagram-@_teddy.1510-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
   <a href="mailto:tranleminhkhoi1510@gmail.com"><img src="https://img.shields.io/badge/Gmail-tranleminhkhoi1510@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
