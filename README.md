@@ -130,8 +130,8 @@ Hobbies: Coding, Lo-fi Music, Gaming & Anime
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=minhkhoi326644&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=5865F2&icon_color=EB459E&text_color=c9d1d9" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhkhoi326644&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=5865F2&text_color=c9d1d9" height="165" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=minhkhoi326644&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=5865F2&icon_color=EB459E&text_color=c9d1d9" height="165" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=minhkhoi326644&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=5865F2&text_color=c9d1d9" height="165" alt="Top Languages" />
 </div>
 
 <div align="center">
